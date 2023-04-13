@@ -45,7 +45,7 @@ It is recommended to use a virtual environment to keep the dependencies for this
 
 To install the dependencies for this project, run the following command:
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 This will install all of the packages listed in the `requirements.txt` file.
 
@@ -55,4 +55,4 @@ This will install all of the packages listed in the `requirements.txt` file.
 
 To clone this repository, run the following command:
 
-`git clone https://github.com/user/repo.git`
+`git clone https://github.com/kiaashour/Deep-Q-Learning-on-CartPole.git`
